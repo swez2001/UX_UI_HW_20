@@ -246,6 +246,29 @@ margin: 72px;
   width: 35rem;
 }
 
+div#collapseThree.collapse.show {
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.media-body p {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+button.btn.btn-link {
+  color: #8458B3;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+#ITPoints {
+  text-align: center;
+}
+
 .Footer {
     margin-top: 50px;
 }
