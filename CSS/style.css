@@ -204,6 +204,7 @@ margin: 72px;
 
 .card-Proto {
   margin-left: 47px;
+  width: 30rem;
 }
 
 .card-Insights {
@@ -416,6 +417,31 @@ div.col-6.col-md-4 {
   #title{
     margin-right: 3px;
   }
+
+  .first {
+    flex-direction: column;
+    margin-left: -64px;
+}
+
+.second {
+  flex-direction: column;
+  margin-left: -69px;
+}
+
+.mr-3 {
+  width: 21rem;
+}
+#pills-Prototyping.tab-pane.fade.show.active {
+  margin: 36px;
+}
+
+#pills-Research.tab-pane.fade.active.show {
+  margin: 42px;
+}
+
+.card-Proto {
+  margin-left: 47px;
+}
             .Footer {
                 padding: 10px;
         
