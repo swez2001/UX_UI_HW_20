@@ -269,6 +269,17 @@ button.btn.btn-link {
   text-align: center;
 }
 
+#pills-Prototyping.tab-pane.fade.show.active {
+  text-align: center;
+  margin: 72px;
+  background-color: #E5EAF5;
+  padding: 40px;
+}
+
+div.col-6.col-md-4 {
+  align-self: center;
+}
+
 .Footer {
     margin-top: 50px;
 }
