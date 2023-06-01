@@ -74,16 +74,16 @@ body {
   }
 
 #Home {
-    -webkit-text-stroke-width: 4px;
-    font-size: 32px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 800;
-    color: #E5EAF5;
-    stroke: #494D5F;
-    margin: 10px;
-    cursor: default;
-    -webkit-text-stroke-color: #494D5F;
-    text-decoration: none;
+  -webkit-text-stroke-width: 4px;
+  font-size: 32px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  color: #E5EAF5;
+  stroke: #494D5F;
+  margin: 10px;
+  cursor: default;
+  -webkit-text-stroke-color: #494D5F;
+  text-decoration: none;
 }
 
 .inline-block {
