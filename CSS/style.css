@@ -412,6 +412,10 @@ div.col-6.col-md-4 {
               text-align: center;
               width: auto;
         }
+
+  #title{
+    margin-right: 3px;
+  }
             .Footer {
                 padding: 10px;
         
