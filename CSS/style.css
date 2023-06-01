@@ -50,7 +50,7 @@ body {
   .Work img {
       height: 50px;
       width: 40px;
-      margin-bottom: -16px;
+      margin-bottom: 0px;
   }
 
 
@@ -100,8 +100,16 @@ body {
     margin-top: 0px;
 }
 
+#title{
+    margin-right: 362px;
+    margin-top: 54px;
+    margin-bottom: 26px;
+}
+
 ul#pills-tab.nav.nav-pills.mb-3 {
     justify-content: center;
+    background-color: #B6DBEE;
+    border: solid 1px;
 }
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
@@ -111,7 +119,16 @@ ul#pills-tab.nav.nav-pills.mb-3 {
 }
 
 .nav-link {
-    color:#494D5F;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 23px;
+    color: #E5EAF5;
+    stroke: #494D5F;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #494D5F;
+}
+.nav-link:hover {
+    color: #8458B3;
 }
 
 
@@ -120,6 +137,106 @@ font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 48px;
     color: #8458B3;
+}
+.content1 {
+  background-color: #31A6BF;
+  margin-top: -16px;
+}
+.content1 img {
+  float: center;
+  height: 411px;
+  margin-left: 15px;
+}
+
+
+#display-4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+
+.display {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#pills-intro.tab-pane.fade.show.active {
+    text-align: left;
+    margin: 72px;
+    background-color: #E5EAF5;
+    padding: 40px;
+}
+
+a.btn.btn-primary.btn-lg {
+    background-color: #8458B3;
+}
+
+#pills-Research.tab-pane.fade.active.show {
+background-color: #E5EAF5;
+padding: 40px;
+margin: 72px;
+}
+
+#display-5 {
+  font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 35px;
+}
+.first {
+  display: flex;
+    margin-bottom: 44px;
+    margin-top: 67px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.second {
+  display: flex;
+    margin-bottom: 44px;
+    margin-top: 67px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.card-Proto {
+  margin-left: 47px;
+}
+
+.card-Insights {
+  margin-left: 47px;
+}
+
+.card-Affinity {
+  margin-left: 47px;
+}
+
+.card-Empathy {
+  margin-left: 47px;
+}
+
+.card-Persona {
+  margin-left: 47px;
+}
+
+
+
+
+
+
+#pills-Problem.tab-pane.fade.show.active {
+  text-align: left;
+  margin: 72px;
+  background-color: #E5EAF5;
+  padding: 40px;
+}
+
+.line-1 {
+  height: 2px;
+  background: black;
 }
 
 .Footer {
