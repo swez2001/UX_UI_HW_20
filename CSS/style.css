@@ -74,7 +74,7 @@ body {
   }
 
 #Home {
-  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-width: 2px;
   font-size: 32px;
   font-family: 'Poppins', sans-serif;
   font-weight: 800;
@@ -84,6 +84,10 @@ body {
   cursor: default;
   -webkit-text-stroke-color: #494D5F;
   text-decoration: none;
+}
+
+#WorkNav {
+  -webkit-text-stroke-width: 4px;
 }
 
 .inline-block {
