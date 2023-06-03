@@ -37,6 +37,7 @@ body {
 
   #Home:hover {
     color: #8458B3;
+    cursor: pointer;
   }
 
   li.About:hover {
